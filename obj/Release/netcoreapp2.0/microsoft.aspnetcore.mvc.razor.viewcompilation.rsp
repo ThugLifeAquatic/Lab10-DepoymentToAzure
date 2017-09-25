@@ -1,0 +1,5 @@
+C:\Users\acohr\source\repos\Deploy2Azure
+--output-path=obj\Release\netcoreapp2.0\
+--application-name=Deploy2Azure
+--content-root=C:\Users\acohr\source\repos\Deploy2Azure
+--file=
